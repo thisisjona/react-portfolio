@@ -1,8 +1,10 @@
-import React from "react";  
+import React from "react"; 
+
 
 function Portfolio() {
     return(
-        <div>
+        <div className = 'container'>
+            <div className='row justify-content-around'></div>
 
         </div>
     );
