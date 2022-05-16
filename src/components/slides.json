@@ -1,5 +1,5 @@
 [{
-"img": "",
+"img": "https://github.com/thisisjona/react-portfolio/blob/main/src/assets/images/wehelpaustin.jpeg?raw=true",
 "title":"We Help Austin",
 "description": "Online community where voluntary services can be requested or provided.",
 "technologies": "HTML5, CSS, JavaScript, MySQL, Handlebars, socket.io",
@@ -9,7 +9,7 @@
 },
 
 {
-"img": "",
+"img": "https://github.com/thisisjona/react-portfolio/blob/main/src/assets/images/run-buddy.png?raw=true",
 "title":"Run Buddy",
  "description": "Website that offers fitness training services",
 "technologies": "HTML5, CSS",
@@ -28,7 +28,7 @@
         
  },
 {
-"img": "",
+"img": "https://github.com/thisisjona/react-portfolio/blob/main/src/assets/images/timed-quiz.png?raw=true",
 "title":"Timed JavaScript Fundamentals Quiz",
 "description": "Test your Fundamental Javascript with this timed quiz.",
 "technologies": "HTML, CSS, Bootstrap, JavaScript",
