@@ -19,7 +19,7 @@
     },
 
 {
-"img": "",
+"img": "https://github.com/thisisjona/react-portfolio/blob/main/src/assets/images/pw-generator.png?raw=true",
 "title":"Password Generator",
 "description": "Application that will create a random password according to the criteria specified by the user.",
 "technologies": "HTML, CSS, Bootstrap",
