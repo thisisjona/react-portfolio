@@ -1,8 +1,7 @@
 import React from 'react';
 import Nav from './components/Nav';
 import About from './components/About';
-// import Contact from './components/Contact';
-// import Portfolio from './components/Portfolio';
+import Portfolio from './components/Portfolio';
 import Footer from './components/Footer';
 import ContactForm from './components/Contact';
 
@@ -20,6 +19,7 @@ function App() {
       <main>
       <About></About>
       <ContactForm></ContactForm>
+      <Portfolio></Portfolio>
        
       </main>
       <Footer></Footer>
