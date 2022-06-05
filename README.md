@@ -12,5 +12,6 @@ A showcase of projects worked on during the UT Austin Coding Bootcamp though Rea
 
 ## Installation
 
-Upon cloning this repository, please type ``npm i`` to download required dependencies
+- Upon cloning this repository, please type ``npm i`` to download required dependencies
+- 
 
